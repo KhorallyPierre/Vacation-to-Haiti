@@ -1,0 +1,45 @@
+* {
+  font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  color: darkblue;
+  font-size: 60px;
+}
+
+h2, h3{
+  font-family: 'Comfortaa', cursive;
+}
+
+label {
+  width: 45%;
+}
+
+.center {
+  text-align: center;
+}
+.CashierContainer {
+  text-align: center;
+}
+
+body {
+  padding-top: 80px;
+  word-wrap: break-word;
+  background: url(img/background.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.savage {
+  height: 400px;
+}
+
+.haiti {
+  height: 60px;
+  text-align: center;
+}
+.jumbotron {
+  background:rgba(114, 184, 181, .5);
+}
