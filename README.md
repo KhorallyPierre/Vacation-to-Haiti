@@ -1,6 +1,6 @@
 # Vacation-to-Haiti
 
-Welcome to my Vacation to Haiti Resort Site! Here, individuals sign up for any packages they would like that Port-Salut (a real Haitian Destination Resort) offers. You make an account, or you log in, and then you proceed by choosing the package you would like. There are several packages to choose from. Log in and see your options!
+Welcome to my Vacation to Haiti Resort Site! Here, individuals sign up for any packages they would like that Port-Salut (a real Haitian Destination Resort) offers. You make an account, or you log in, and then you proceed by choosing the package you would like. There are several packages to choose from. Log in and see your options! View deployed site [here](https://secret-plateau-12028.herokuapp.com/)
 
 ![Favorite Book Page](background2.jpg)
 
